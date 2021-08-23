@@ -1,0 +1,25 @@
+{
+    "name": "Trinket_Joystick",
+    "description": "",
+    "dependencies": {
+        "adafruit-trinket-m0": "*",
+        "gamepad": "*",
+        "mouse": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.15.17",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
